@@ -1,0 +1,3 @@
+api to get schemas and table columns names
+check the sql-query for ending with ";"
+handle update, delete, drop dml commands
